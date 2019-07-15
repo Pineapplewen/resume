@@ -1,7 +1,7 @@
 # Page settings
-baseurl = "http://example.org/"
+baseurl = " https://pineapplewen.github.io/resume/"
 languageCode = "zh"
-title = "John Doe Resume"
+title = "Pineapplewen Resume"
 theme = "hugo-orbit-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
