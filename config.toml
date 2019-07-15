@@ -1,5 +1,5 @@
 # Page settings
-baseurl = " https://pineapplewen.github.io/resume/"
+baseurl = "https://pineapplewen.github.io/resume/"
 languageCode = "zh"
 title = "Pineapplewen Resume"
 theme = "hugo-orbit-theme"
